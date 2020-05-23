@@ -1,5 +1,4 @@
 # XOR Crypter
-#### Description
 Console based TXT file encrypter + decrypter using XOR encryption algorithms with built-in password creator made with C++.
 ![image](https://i.imgur.com/3dsDiUy.png)
 #### Prerequisites
